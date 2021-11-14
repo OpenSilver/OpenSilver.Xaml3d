@@ -11,7 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ObjectPosition.cs" />
+    <Compile Include="Xaml3d.cs" />
   </ItemGroup>
   
 </Project>

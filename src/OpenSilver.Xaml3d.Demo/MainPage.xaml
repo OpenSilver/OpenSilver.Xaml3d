@@ -8,7 +8,7 @@
     xmlns:xaml3d="clr-namespace:OpenSilver.Xaml3d;assembly=OpenSilver.Xaml3d"
     mc:Ignorable="d">
     <Canvas>
-        <TextBlock Text="Hello World!" xaml3d:Xaml3d.Rotate3d="X="  x:Name="TextBlock1" Canvas.Left="20" Canvas.Top="30"/>
+        <TextBlock Text="Hello World!" xaml3d:ObjectPosition.RotateX="45" x:Name="TextBlock1" Canvas.Left="20" Canvas.Top="30"/>
     </Canvas>
     
 </Page>
